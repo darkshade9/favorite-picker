@@ -1,0 +1,497 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>
+Free video game downloads, news, reviews, videos, patches, demos, screenshots and more at AtomicGamer</title>
+<meta name="description" content="Read up on the latest news and press releases at AtomicGamer." />
+<meta name="keywords" content="news, press release, video games, games, gaming, pc, xbox, ps2, ps3, xbox 360, wii sony, nintendo, microsoft" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="alternate" type="application/rss+xml" title="AtomicGamer Articles" href="/rssFeeds.php?type=Articles"/>
+<link rel="alternate" type="application/rss+xml" title="AtomicGamer Files" href="/rssFeeds.php?type=Files"/>
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/includes/root.css" title="sheet" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/nivo/nivo-slider.css" title="sheet" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/nivo/default.css" title="sheet" type="text/css" media="screen" />
+<link rel="icon" href="/favicon.ico"/>
+<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+<script language="JavaScript" src="/layouts/AtomicGamer_Grunge/nivo/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/features.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/popup.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/management.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/misc.js" type="text/javascript"></script>
+<script type="text/javascript">
+   (function() {
+       function async_load(){
+           var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+           var s = document.createElement('script');
+           s.src = protocol + 'blockmetrics.com/static/adblock_detection/js/d.min.js';
+           var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+       }
+       bm_website_code = '4C183A728B1B11E2';
+       jQuery(document).ready(async_load);
+   })();
+</script>
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-2700833702457086");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Right_300x250");
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Right_336x600")
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Top_728x90");
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_BTF_Right_160x600");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+</head>
+
+<body>
+<!--script language="Javascript" src="/hostPageScript.js"></script-->
+
+<div id="topWrapper">
+    <ul id="topNavigation">
+    	<li><a href="http://www.atomicgamer.com/">AtomicGamer</a></li>
+    	<li><a href="http://www.atomicgamer.com/network.php">Network</a></li>
+    	<li><a href="http://www.twitter.com/atomicgamer">Twitter</a></li>
+    	<li><a href="http://www.facebook.com/AtomicGamer">Facebook</a></li>
+    	<li><a href="http://www.youtube.com/user/AtomicGamerdotcom">YouTube</a></li>    
+    </ul>
+</div>
+<map name="logoMap">
+<area href="http://www.atomicgamer.com/" alt="AtomicGamer" shape="rect" coords="5,5, 700, 100" />
+</map>
+
+<div id="headerWrapper">
+<div id="header">    
+	<img src="/layouts/AtomicGamer_Grunge/images/logo.jpg" style=" width: 987px; height: 106px;" alt="AtomicGamer" title="AtomicGamer" border="0"  usemap="#logoMap" />	    
+	<div id="search">
+		<form method="get" action="/search.php">
+			<input type="hidden" name="searchProcess" value="1" />
+			<input type="text" id="searchText" name="search" value="Search" size="14" maxlength="50" style="width: 100px; margin-right: 3px; color: #BBBBBB;" 
+				onfocus="if (this.value == 'Search') { document.getElementById('searchTypeSelect').style.color='#000000'; this.value = ''; this.style.color = '#000000' }"
+				onblur="if (this.value == '') { document.getElementById('searchTypeSelect').style.color='#BBBBBB'; this.value = 'Search'; this.style.color = '#BBBBBB' }" /> 
+			<select id="searchTypeSelect" name="searchType" style="color: #BBBBBB;"
+				onfocus="this.style.color = '#000000';">
+			<option>Any Type</option>
+			<option>Games</option>
+<option>Modifications</option>
+<option>Companies</option>
+<option>Articles</option>
+<option>Files</option>
+			</select>		
+			<input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Search" />
+		</form>
+	</div>
+</div>
+<!--div style="text-align: center; background-color: #000000; font-weight: bold; padding: 2px;">AtomicGamer will be down starting at 9 PM Central for upgrades. We expect to be down for about two hours.</div-->
+</div>
+
+<div id="navWrapper">
+    <ul id="nav">
+    	<li><a href="/">News</a></li>
+        <li><a href="/reviews">Reviews</a></li>
+        <li><a href="/previews">Previews</a></li>
+        <li>
+            <a href="#">Articles</a>
+            <ul>
+                <li><a href="/articles">Editorials</a></li>
+                <li><a href="/interviews">Interviews</a></li>
+                <li><a href="/freegames">Free Games</a></li>
+		<li><a href="/newsItems.php?id=1">Press Releases</a></li>
+            </ul>
+        </li>        
+        <li><a href="/galleries">Screenshots</a></li>
+        <li>
+            <a href="#">Games</a>
+            <ul>
+            <li><a href="/games.php?filter=A+to+Z-%23">#</a></li>
+<li><a href="/games.php?filter=A+to+Z-A">A</a></li>
+<li><a href="/games.php?filter=A+to+Z-B">B</a></li>
+<li><a href="/games.php?filter=A+to+Z-C">C</a></li>
+<li><a href="/games.php?filter=A+to+Z-D">D</a></li>
+<li><a href="/games.php?filter=A+to+Z-E">E</a></li>
+<li><a href="/games.php?filter=A+to+Z-F">F</a></li>
+<li><a href="/games.php?filter=A+to+Z-G">G</a></li>
+<li><a href="/games.php?filter=A+to+Z-H">H</a></li>
+<li><a href="/games.php?filter=A+to+Z-I">I</a></li>
+<li><a href="/games.php?filter=A+to+Z-J">J</a></li>
+<li><a href="/games.php?filter=A+to+Z-K">K</a></li>
+<li><a href="/games.php?filter=A+to+Z-L">L</a></li>
+<li><a href="/games.php?filter=A+to+Z-M">M</a></li>
+<li><a href="/games.php?filter=A+to+Z-N">N</a></li>
+<li><a href="/games.php?filter=A+to+Z-O">O</a></li>
+<li><a href="/games.php?filter=A+to+Z-P">P</a></li>
+<li><a href="/games.php?filter=A+to+Z-Q">Q</a></li>
+<li><a href="/games.php?filter=A+to+Z-R">R</a></li>
+<li><a href="/games.php?filter=A+to+Z-S">S</a></li>
+<li><a href="/games.php?filter=A+to+Z-T">T</a></li>
+<li><a href="/games.php?filter=A+to+Z-U">U</a></li>
+<li><a href="/games.php?filter=A+to+Z-V">V</a></li>
+<li><a href="/games.php?filter=A+to+Z-W">W</a></li>
+<li><a href="/games.php?filter=A+to+Z-X">X</a></li>
+<li><a href="/games.php?filter=A+to+Z-Y">Y</a></li>
+<li><a href="/games.php?filter=A+to+Z-Z">Z</a></li>
+            </ul>
+        </li>        
+        <li>
+            <a href="#">Files</a>
+            <ul>
+            <li><a href="/free-games">Free Games</a></li>
+<li><a href="/mmog-clients">MMOG Clients</a></li>
+<li><a href="/demos">Demos</a></li>
+<li><a href="/patches">Patches</a></li>
+<li><a href="/official-add-ons">Official Add-ons</a></li>
+<li><a href="/movies">Movies</a></li>
+                <li><a href="/uploads.php">Uploads</a></li>
+            </ul>
+        </li>                
+        <li>
+            <a href="#">About</a>
+            <ul>
+                <li><a href="/contact.php">Contact Us</a></li>
+                <li><a href="irc://irc.atomicgamer.com/#atomicgamer">Semi-live Chat</a></li>
+                <li><a href="/hosting.php">Hosting</a></li>
+				<li><a href="/staff.php">Staff</a></li>				                
+            </ul>
+        </li>        
+    </ul>
+</div>
+
+<div id="wrapper">
+
+	<div id="bannerTop">
+		<script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_ATF_Top_728x90");</script>
+		<span class="bannerCaption">Advertisement</span>
+	</div>
+	
+<div id="features-wrapper" class="slider-wrapper theme-default">
+    <div class="ribbon"></div>
+    <div id="features" class="nivoSlider">
+    <a href="http://www.atomicgamer.com/files/108527/guns-gore-and-cannoli-demo-windows"><img alt="" title="Guns Gore and Cannoli Demo" src="/screenshots/game-6336/112944-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1544/road-redemption-early-access-review"><img alt="" title="Road Redemption Early Access Review" src="/screenshots/game-10816/180517-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/files/108503/unending-galaxy-v0-74-free-game"><img alt="" title="Unending Galaxy v0.74 Released!" src="/screenshots/game-2677/27005-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/files/108462/velocibox-v5-0-demo-windows"><img alt="" title="Velocibox 5.0 Demo Now Available!" src="/screenshots/game-7506/140706-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1543/elgato-game-capture-hd60-review"><img alt="" title="Elgato Game Capture HD60 Review" src="/screenshots/game-555/12130-620-250.jpg" border="0" /></a></a>    </div>
+</div>
+
+
+<div id="rightColumn">
+    
+    	<div id="bannerFeatures">
+		<script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_ATF_Right_300x250");</script>
+		<span class="bannerCaption">Advertisement</span>
+	</div>
+	    
+	<div id="login">
+	<h3 class="seoHeader">Log In</h3>			<form method="post" action="http://www.atomicgamer.com/">
+			<input type="hidden" name="login" value="1" />
+			<table width="326" border="0" cellpadding="0" cellspacing="0" style="width: 326px; margin: 0px 5px 5px;">
+				<tr>
+					<td width="80"><strong>Username:</strong></td>
+					<td width="220"><input type="text" name="username" size="16" style="width: 236px;" /></td>
+				</tr>
+				<tr>
+					<td><strong>Password:</strong></td>
+					<td><input type="password" name="password" size="16" style="width: 236px;" /></td>
+				</tr>
+			</table>
+			<table width="326" border="0" cellpadding="0" cellspacing="0" style="width: 326px; margin: 0px 5px;">
+				<tr>
+				  <td width="30"><input type="checkbox" name="remember" value="1" /></td>
+					<td>Remember Login?</td>
+					<td width="22"><input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Login" />
+</td>
+				</tr>
+			</table>
+			</form>
+
+			<ul>
+			<li><a href="/register.php">Register</a> | <a href="/lostUsername.php">Lost Username</a> | <a href="/lostPassword.php">Lost Password</a></li>
+			</ul>
+		
+			
+	</div>
+	
+		<div id="bannerLargeSideRight">
+		<span class="bannerCaption">Advertisement</span>
+		<script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_ATF_Right_336x600");</script>
+	</div>
+			    
+	<div>   
+        <h3 class="seoHeader">Hottest Files</h3>    
+		<ul class="fileList">
+		<li><a  href="/files/99936/slender-the-eight-pages-v0-9-7-beta-for-windows-free-game">Slender: The Eight Pages v0.9.7 Beta for Windows [Free Game]</a></li>
+<li><a  href="/files/99937/slender-the-eight-pages-v0-9-7-beta-for-mac-free-game">Slender: The Eight Pages v0.9.7 Beta for Mac [Free Game]</a></li>
+<li><a  href="/files/104671/seal-online-blades-of-destiny-full-client-free-to-play">Seal Online: Blades of Destiny Full Client [Free-to-Play]</a></li>
+<li><a  href="/files/98864/flyff-gold-v19-full-client-free-to-play">Flyff Gold V19 - Full Client [Free-to-Play]</a></li>
+<li><a  href="/files/105333/dragon-saga-client-v0-2-6-full-free-to-play">Dragon Saga Client v0.2.6 Full [Free-to-Play]</a></li>
+<li><a  href="/files/100062/soldier-front-full-client-v2012-07-20-free-to-play">Soldier Front - Full Client v2012.07.20 [Free-to-Play]</a></li>
+<li><a  href="/files/102726/crysis-2-maldohd-v4-0-final-with-fixes">Crysis 2 - MaLDoHD v4.0 Final (With Fixes)</a></li>
+<li><a  href="/files/28752/fallout-2-patch-1-02">Fallout 2 Patch 1.02</a></li>
+		</ul>
+	</div>
+	    
+	<div>        
+        <h3 class="seoHeader">Newest Files</h3>
+		<ul class="fileList">
+		<li><a  href="/files/108526/guns-gore-and-cannoli-demo-mac">Guns Gore and Cannoli Demo - Mac</a></li>
+<li><a  href="/files/108523/afi-demo-windows">Afi Demo - Windows</a></li>
+<li><a  href="/files/108525/crystal-rift-alpha-7-demo-windows">Crystal Rift Alpha 7 Demo - Windows</a></li>
+<li><a  href="/files/108524/afi-demo-mac">Afi Demo - Mac</a></li>
+<li><a  href="/files/108527/guns-gore-and-cannoli-demo-windows">Guns Gore and Cannoli Demo - Windows</a></li>
+<li><a  href="/files/108528/post-apocalyptic-pawn-shop-v0-005-demo-windows">Post Apocalyptic Pawn Shop v0.005 Demo - Windows</a></li>
+<li><a  href="/files/108529/post-apocalyptic-pawn-shop-v0-005-demo-linux">Post Apocalyptic Pawn Shop v0.005 Demo - Linux</a></li>
+<li><a  href="/files/108530/post-apocalyptic-pawn-shop-v0-005-demo-mac">Post Apocalyptic Pawn Shop v0.005 Demo - Mac</a></li>
+		</ul>
+	</div>	
+        
+	<div>        
+        <h3 class="seoHeader">Latest Comments</h3>
+		<ul class="fileList">
+		<li><a  href="/news/4195/bioshock-infinite-dlc-first-five-minutes#910">Re: BioShock Infinite DLC: First Five Minutes</a></li>
+<li><a  href="/articles/1517/wolfenstein-the-new-order-preview#909">Re: Wolfenstein: The New Order Preview</a></li>
+<li><a  href="/news/3855/cross-fire-nightfall-update#908">Re: Cross Fire "Nightfall" Update</a></li>
+<li><a  href="/articles/1499/fuse-preview-may-2013#907">Re: Fuse Preview (May 2013) </a></li>
+<li><a  href="/articles/1499/fuse-preview-may-2013#906">Re: Fuse Preview (May 2013) </a></li>
+<li><a  href="/articles/1540/wolfenstein-the-new-order-review#905">Re: Wolfenstein: The New Order Review</a></li>
+		</ul>
+	</div>	    
+	    
+	<div>        
+        <h3 class="seoHeader">Hosted Files</h3>
+		<ul class="fileList">
+                        <li><a href="http://www.beyondunreal.com/">BeyondUnreal</a> -  <a href="/directory.php?id=1259">Files</a></li>
+                        <li><A href="http://www.civfanatics.com/">CivFanatics</a> - <a href="/directory.php?id=2599">Files</a></li>
+                        <li><A href="http://www.doomworld.com/">DoomWorld</a> - <a href="/directory.php?id=1533">Files</a></li>
+                        <li><a href="http://www.liberatedgames.com">Liberated Games</a> - <a href="/directory.php?id=1940">Files</a></li>
+                        <li><a href="http://www.linuxgames.com">LinuxGames</a> - <a href="/directory.php?id=1941">Files</a></li>
+                        <li><a href="http://www.nma-fallout.com">No Mutants Allowed</a> - <a href="/directory.php?id=2075">Files</a></li>
+                        <li><A href="http://www.Totalwar.org">Totalwar.org </a> - <a href="/directory.php?id=2704">Files</a></li>
+                        <li><A href="http://www.zeldadungeon.net/">Zelda Dungeon </a> -<a href="/directory.php?id=3705">Files</a></li>
+
+		</ul>
+	</div>	
+    
+    	<div id="bannerSideRight">
+		<script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_BTF_Right_160x600");</script>
+		<span class="bannerCaption">Advertisement</span>
+	</div>
+	</div>
+
+<div id="article">
+    <h1 class="seoHeader headerImage">Latest News</h1>
+
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.1.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.1.css" media="screen"/>
+
+<script language="JavaScript">
+$(document).ready(function() 
+{
+    $("a.box").fancybox({
+        'titleShow'		: false,
+        'transitionIn'	: 'elastic',
+        'transitionOut'	: 'elastic'
+    });    
+});
+--></script>
+
+<h3><a href="/news/4218/first-move-from-microsoft-mojang">First Move from Microsoft-Mojang</a></h3>
+<span class="author">By Jeff Buckland, 10/12/2014 6:47 AM</span><br/><br/>
+<p>It's not a huge thing, but <b>Minecraft</b> developer Mojang, under their new Microsoft ownership, have made their first move: <a href="http://www.mcvuk.com/news/read/mojang-confirms-minecraft-pocket-edition-for-windows-phone/0139694">Erik Johnson at MCV UK</a> confirms that they're releasing a Pocket Edition of the game for Windows Phone.  Obviously there needs to be something bigger than this for Microsoft to justify the 2.5 billion dollar price tag that Mojang commanded, but it's good to hear about some movement only a few weeks after the purchase. <br/><br/>
+<a href="/news/4218/first-move-from-microsoft-mojang#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4214/polygons-ben-kuchera-isnt-buying-battlefield-hardline">Polygon's Ben Kuchera isn't buying Battlefield: Hardline</a></h3>
+<span class="author">By Jeff Buckland, 6/25/2014 3:26 AM</span><br/><br/>
+<p>Ben Kuchera over at Polygon.com has declared that despite a love of the <b>Battlefield</b> games, he <a href="http://www.polygon.com/2014/6/24/5837722/battlefield-hardline-ea-dice-broken">won't be buying</a> the upcoming <b>Hardline</b>, and puts together a pretty good case for why you shouldn't be either - including quotes from DICE's Patrick Bach saying that making <b>Battlefield</b> a yearly franchise would suck, that having another studio make it would suck, and EA wouldn't do that.  Well, now EA <b>is</b> doing exactly that, so I think it would pretty much stand to reason that what Patrick Bach said will actually come true.  Another studio (Visceral Games, coming hot off the failure of <b>Dead Space 3</b>), a year after the release of <b>BF4</b> (which for some players still doesn't work right), and EA is of course leading with all their usual DLC trickery.  <br />
+<br />
+On this matter, you don't even have to listen to Ben, who many will consider suspect as he is a game journalist.  Listen to DICE's own Patrick Bach, whose words are coming back to haunt him as this new <b>Battlefield</b> looks like it's pretty much his own nightmare scenario.<br/><br/>
+<a href="/news/4214/polygons-ben-kuchera-isnt-buying-battlefield-hardline#comments">View Comments [2]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4213/xbox-one-controller-pc-drivers-released">Xbox One Controller PC Drivers Released</a></h3>
+<span class="author">By Jeff Buckland, 6/5/2014 4:23 PM</span><br/><br/>
+<p>Couch-friendly PC gamers rejoice!  <a href="http://majornelson.com/2014/06/05/pc-drivers-for-the-xbox-one-controller-available-now/">MajorNelson over at Xbox</a> has released Xbox One controller drivers for the PC.  You can plug in the controller with a regular Micro-USB cable and don't need to insert any batteries.  The game will work directly as an Xbox 360 controller without any additional software.  And of course, if you'd rather do this with a PS4 controller, you can do the same (or connect via Bluetooth) using <a href="http://forums.pcsx2.net/Thread-DS4-To-XInput-Wrapper">DS4Tool</a>.<br />
+<br />
+I tried a bit of <b>Watch_Dogs</b> on PC with an XB1 controller and it worked perfectly.  If you've got the hardware and the desire to game on your PC with a controller, give it a shot.<br/><br/>
+<a href="/news/4213/xbox-one-controller-pc-drivers-released#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4212/pre-e3-announcements">Pre-E3 Announcements</a></h3>
+<span class="author">By Jeff Buckland, 6/2/2014 1:39 PM</span><br/><br/>
+<p>If you've been watching your favorite game sites over the last couple weeks, you might think that someone secretly canceled this year's E3 and only told the publishers, not the general public.  We've seen multiple game and console announcements come ahead of this year's E3 over the last couple of weeks, and where past years have given us a few, there have been many already and we're still about a week away from E3.  Just today Crytek announced <a href="https://www.youtube.com/watch?v=XXCA-I9cskg"><b>Homefront: Revolution</b></a>, while Playground Games and Microsoft announced <b>Forza Horizon 2</b> for XB1 and 360.  Plenty of others were announced in the last week, and before that, Microsoft couldn't wait to tell people about the Kinect-less Xbox One weeks before their big E3 press conference.  So what's the deal?<br/><br/>
+<a href="/news/4212/pre-e3-announcements">Read more</a> &raquo;
+<a href="/news/4212/pre-e3-announcements#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4211/ea-finally-posts-gameplay-video-of-their-ufc-game">EA Finally Posts gameplay video of their UFC Game</a></h3>
+<span class="author">By Jeff Buckland, 5/20/2014 1:46 PM</span><br/><br/>
+<p><b>EA Sports UFC</b> was announced at E3 last year, and the publisher has put out a slow trickle of footage that mostly just shows the accuracy of the fighters to their real-life counterparts.  And yes, it's impressive.  But they just released their first full-on gameplay video, which you can see below.  (My thoughts follow the trailer.)<br />
+<br />
+<iframe width="629" height="354" src="//www.youtube.com/embed/d2xLW0NZCLw" frameborder="0" allowfullscreen></iframe><br />
+<br />
+<br/><br/>
+<a href="/news/4211/ea-finally-posts-gameplay-video-of-their-ufc-game">Read more</a> &raquo;
+<a href="/news/4211/ea-finally-posts-gameplay-video-of-their-ufc-game#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4210/halo-5-announced">Halo 5 Announced</a></h3>
+<span class="author">By Jeff Buckland, 5/16/2014 5:45 AM</span><br/><br/>
+<p>343 Industries' general manager Bonnie Ross has <a href="http://news.xbox.com/2014/05/games-halo-journey-announcement">announced</a> <b>Halo 5: Guardians</b>, which will be coming to the Xbox One this fall.  More info will be at E3 next month, but for now, I'm excited to hear that it'll be only a year between the launch of the XB1 and a new <b>Halo</b> game.  In the past I've gone in-depth as to why these console manufacturers don't launch a console with a huge flagship game immediately, so one year is a welcome change from when the Xbox 360 launched and we got a new <b>Halo</b> <i>two years</i> later.<br/><br/>
+<a href="/news/4210/halo-5-announced#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4209/dragon-age-iii-trailer-shows-bioware-still-lacking">Dragon Age III Trailer Shows BioWare Still Lacking</a></h3>
+<span class="author">By Jeff Buckland, 4/22/2014 1:24 PM</span><br/><br/>
+<p>I'm a huge BioWare fan even through some of the dark days they've been through, but this latest <b>Dragon Age: Inquisition</b> trailer shows glaring issues that I wish RPGs could get figured out.  One is that I see attacks hitting enemy monsters and them reeling back in ways that make no sense considering the attack that came in.  (We're still dealing with an age-old action game problem of hitboxes and that needs to end very soon.)  But the bigger one to me is that BioWare games focus so much on characters and story, but they still do old-school animations where a math algorithm, not acting performance capture, is at the heart of the look of every character's face.  Sure, BioWare figured out how to put emotion on their characters' faces a while ago, but as budgets grow well past 9 digits for games and players demand larger and more expansive and detailed worlds, can't we get characters that actually mouth the words that are supposed to be coming from their faces properly?  See for yourself:<br />
+<br />
+<iframe width="629" height="354" src="//www.youtube.com/embed/uO2h4qUNJ60" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/4209/dragon-age-iii-trailer-shows-bioware-still-lacking#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4208/michael-abrash-leaves-valve-joins-oculus-and-explains">Michael Abrash Leaves Valve, Joins Oculus, and explains</a></h3>
+<span class="author">By Jeff Buckland, 3/28/2014 2:12 PM</span><br/><br/>
+<p>Two things happened today to help boost the Oculus project, the company that Facebook will be buying for $2 billion - a move that gamers the world over decried as the end of the fun of Oculus.  (And I was a part of those millions of manchildren crying out as if suddenly something nice was destroyed instantly.)  What are those two things?  Well, since we do things old-school here at AtomicGamer with raw HTML in some places, I'm happy to say that both are contained in the <a href="http://kotaku.com/valves-top-vr-expert-jumps-to-oculus-1553788613?utm_campaign=Socialflow_Kotaku_Facebook&utm_source=Kotaku_Facebook&utm_medium=Socialflow">Kotaku story</a>.  Michael Abrash, a force behind the scenes of PC gaming for two decades, has left Valve to join Oculus.  But more importantly, he actually explained why Facebook buying Oculus is good.  As he puts it, the reason that VR has never taken off is because no one invested significant amounts of money in it.  With Facebook's purchase of Oculus, that just happened for the first time in the history of VR technology:<blockquote>The final piece of the puzzle fell into place on Tuesday. A lot of what it will take to make VR great is well understood at this point, so it's engineering, not research; hard engineering, to be sure, but clearly within reach. For example, there are half a dozen things that could be done to display panels that would make them better for VR, none of them pie in the sky. However, it's expensive engineering. And, of course, there's also a huge amount of research to do once we reach the limits of current technology, and that's not only expensive, it also requires time and patience – fully tapping the potential of VR will take decades. That's why I've written before that VR wouldn't become truly great until some company stepped up and invested the considerable capital to build the right hardware – and that it wouldn't be clear that it made sense to spend that capital until VR was truly great. I was afraid that that Catch-22 would cause VR to fail to achieve liftoff.<br />
+<br />
+That worry is now gone. Facebook's acquisition of Oculus means that VR is going to happen in all its glory. The resources and long-term commitment that Facebook brings gives Oculus the runway it needs to solve the hard problems of VR – and some of them are hard indeed. I now fully expect to spend the rest of my career pushing VR as far ahead as I can.</blockquote>The thing I'm taking away from this is the notion that even if Oculus Rift crashes and burns, even if Facebook squanders what they've built, even if hardcore neckbearded PC gamers like many of us don't get what we were hoping for, we're still more likely to get it than before Oculus.  Hell, it might even be better than if Oculus stayed indie and brought their first product, the Rift, to full market and retail, because it was never guaranteed to sell enough to keep the company afloat.  Facebook will take VR mainstream, and after that we PC gamers will likely have many choices to pick from.<br/><br/>
+<a href="/news/4208/michael-abrash-leaves-valve-joins-oculus-and-explains#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4207/someones-mom-reviews-dark-souls-ii">Someone's Mom Reviews Dark Souls II</a></h3>
+<span class="author">By Jeff Buckland, 3/25/2014 6:50 AM</span><br/><br/>
+<p>I think that <a href="http://venturebeat.com/2014/03/24/my-mom-reviews-dark-souls-ii/">this "review"</a> of <b>Dark Souls II</b> shows the rather wide gulf between casual gaming and core games quite well.  To play and enjoy a game like this, you have to have played games like it in the past to understand even the simplest things about what's going on.  These games come with expectations made of the player - some might call it baggage - and they expect us to have some knowledge of what's going on.<br />
+<br />
+Even if <b>Dark Souls II</b> had a classic tutorial where one couldn't die, I doubt it would have helped someone like this writer's mom.  <br/><br/>
+<a href="/news/4207/someones-mom-reviews-dark-souls-ii#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4206/jim-sterling-takes-on-adblock">Jim Sterling Takes on Adblock</a></h3>
+<span class="author">By Jeff Buckland, 3/7/2014 11:12 PM</span><br/><br/>
+<p><a href="http://www.escapistmagazine.com/videos/view/jimquisition/8854-The-Adblock-Episode">Jim Sterling and his Jimquisition show</a> have taken on the topic of Adblock (with relation to games media).  Long time coming, I'd say, and I do like Jim's conclusion, which is basically threefold: 1) Advertisers can do some very scummy things and a good chunk of blame goes to them, 2) Getting mad at those who use Adblock solely because they use it is silly, and 3) Anyone who goes out of their way to directly tell a content creator that they're blocking the way they make money deserve nothing but contempt.  (There's a vast gulf of difference between the people in 2 and 3, that's for sure.)  But I've got some more thoughts on it that I'll humbly put forth:<br/><br/>
+<a href="/news/4206/jim-sterling-takes-on-adblock">Read more</a> &raquo;
+<a href="/news/4206/jim-sterling-takes-on-adblock#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4205/tropico-5-beta-signups-begin">Tropico 5 Beta Signups Begin</a></h3>
+<span class="author">By Jeff Buckland, 2/26/2014 6:49 AM</span><br/><br/>
+<p>Kalypso Media has announced that a beta test for their upcoming city-management game <b>Tropico 5</b> will begin soon, and you can <a href="http://betatest.kalypsomedia.com/TROPICO5">sign up now</a>.<br />
+<br />
+Or, well, you will once Kalypso's poor site comes back online.  Everyone's hammering it as of this writing.<br/><br/>
+<a href="/news/4205/tropico-5-beta-signups-begin#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4204/lets-not-be-mad-about-pillars-of-eternitys-delay">Let's Not Be Mad About Pillars of Eternity's Delay</a></h3>
+<span class="author">By Jeff Buckland, 2/9/2014 7:20 AM</span><br/><br/>
+<p><a href="http://www.eurogamer.net/articles/2014-02-05-when-is-pillars-of-eternity-coming-out">Obsidian's Josh Sawyer told Eurogamer this week</a> that their upcoming Kickstarter-funded RPG <b>Pillars of Eternity</b> isn't going to make it out in April-ish as originally planned, and instead will come in the last half of this year (as an estimation, at least) - and it's mostly because of all the money that rolled in and all the features that the developers added as stretch goals.  Those who know Obsidian Entertainment's history and how the video game business should know, however, that rushing Obsidian does not go well... for anyone.<br/><br/>
+<a href="/news/4204/lets-not-be-mad-about-pillars-of-eternitys-delay">Read more</a> &raquo;
+<a href="/news/4204/lets-not-be-mad-about-pillars-of-eternitys-delay#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4203/thief-preview-video-with-actual-critical-commentary">Thief Preview Video with Actual Critical Commentary</a></h3>
+<span class="author">By Jeff Buckland, 1/24/2014 12:50 PM</span><br/><br/>
+<p>Maybe it's because the guy doing the preview isn't the guy that was playing, but this <b>Thief</b> preview wound up being refreshingly critical of the game, pointing out both good and bad things about it.  With all of this said, I do believe that most of the complaints that the speaker has are related to the Medium difficulty, which is not remotely intended to reproduce the feel of the original games.  Whether higher difficulty modes actually succeed at that or not is up to question, but I believe that was the intent.  Nevertheless, check out the footage: <br />
+<br />
+<iframe width="629" height="354" src="//www.youtube.com/embed/_vNrS7-cDSE" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/4203/thief-preview-video-with-actual-critical-commentary#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4202/4k-monitors-for-700-but-are-we-ready">4K Monitors for $700, But Are we Ready?</a></h3>
+<span class="author">By Jeff Buckland, 1/9/2014 6:35 AM</span><br/><br/>
+<p>Are you a hardcore PC gamer?  If so, you might have heard that monitors are coming within the next month or two that support 4K resolution (that's 3840x2160, or the pixels of four 1920x1080 monitors in a 2x2 grid) at relatively reasonable prices. Dell's going to be <a href="http://www.pcworld.com/article/2084966/dells-28-inch-4k-desktop-monitor-will-only-cost-700.html">offering</a> a 28" 4K monitor for $699, and Lenovo will have a similar offering.  But are PC gamers ready for 4K?  <br/><br/>
+<a href="/news/4202/4k-monitors-for-700-but-are-we-ready">Read more</a> &raquo;
+<a href="/news/4202/4k-monitors-for-700-but-are-we-ready#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4201/next-gen-console-progress-report-december-2013">Next-Gen Console Progress Report: December 2013</a></h3>
+<span class="author">By Jeff Buckland, 12/2/2013 6:22 AM</span><br/><br/>
+<p>Video game news is relatively quiet for what seems to be the first time in a year.  Steam's got their <a href="http://store.steampowered.com/">autumn sale</a> going on, both new consoles are now out in as many countries as Sony and MS are able to get to this year, and all of those games are now on shelves.  The news is quiet as these companies simply now produce hardware and release software... and just wait for people to buy.  The buzz is there for all of this new stuff, so the buying is definitely happening, but is gaming healthy right now?<br/><br/>
+<a href="/news/4201/next-gen-console-progress-report-december-2013">Read more</a> &raquo;
+<a href="/news/4201/next-gen-console-progress-report-december-2013#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4200/gran-turismo-6-infodump">Gran Turismo 6 Infodump</a></h3>
+<span class="author">By Jeff Buckland, 11/9/2013 11:32 AM</span><br/><br/>
+<p><a href="http://www.gran-turismo.com/us/products/gt6/">Polyphony Digital has released a bunch of info</a> (plus <a href="http://www.gran-turismo.com/local/jp/data1/products/gt6/carlist_en.html">car list</a> and <a href="http://www.gran-turismo.com/us/products/gt6/tracks/#new">track list</a>) on their upcoming current-gen final hurrah, <b>Gran Turismo 6</b>.  While my PC gaming buddies enjoy some really cool visuals and physics, this game is going to have 1200 cars (including all with in-cockpit view this time) and a ton of features.  Here's one I thought was really cool:<blockquote>Course Maker<br />
+This feature, available at a later stage through an update, will allow you to create your own custom tracks that can be driven in the game. Additionally, in another update we will add the possibility to generate a track by capturing the GPS coordinate data of a mobile app while you are driving that course. This GPS-generated tracks will be available in the game as playable content.</blockquote>There's plenty more to see at the links above.  Cool stuff for racing game fans!<br/><br/>
+<a href="/news/4200/gran-turismo-6-infodump#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4199/new-nvidia-drivers-released-shadowplay-included">New Nvidia Drivers Released: Shadowplay Included</a></h3>
+<span class="author">By Jeff Buckland, 10/28/2013 11:09 AM</span><br/><br/>
+<p>Nvidia has <a href="http://www.geforce.com/whats-new/articles/nvidia-geforce-331-65-whql-drivers-released">released some new drivers</a> today, just in time for <b>Call of Duty Ghosts</b> and this week's <b>Battlefield 4</b>.  There's also a new, major feature in here: Shadowplay.<br />
+<br />
+Shadowplay is a video recording system that works on the GPU and uses fewer resources than many other similar programs costing quite a bit of money.  You can leave it running in the background and tap a key to save the last X minutes of your gameplay to disk as a video, or you can use it like FRAPS and the like to purposely record big, long sessions of gameplay with a key toggle.  Recording video of your gameplay isn't exactly revolutionary, but early users have said that it can record up to 1080p 60fps footage at quality that's much better than YouTube can handle with little-to-no impact on their frame rate.  Anyone who's tried recording 1080p60 video with FRAPS knows that that's quite the achievement.<br/><br/>
+<a href="/news/4199/new-nvidia-drivers-released-shadowplay-included#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4198/ea-sports-the-dreaded-focus-test">EA Sports & The Dreaded Focus Test</a></h3>
+<span class="author">By Jeff Buckland, 10/25/2013 8:55 AM</span><br/><br/>
+<p><a href="http://gamingbolt.com/ea-sports-ufc-will-run-at-1080p-on-the-ps4-and-xbox-one-rendered-at-30-fps-with-motion-blur">GamingBolt has word</a> that the upcoming <b>EA Sports UFC</b> game will run at 1080p resolution on PS4 and Xbox One, but only at 30fps.  The developers go into how focus tests tell them that this will be better... but of course, focus tests generally pull in "average" gamers, not enthusiast gamers, and I'm just not sure that these kinds of decisions should be made by way of focus tests.  But there's more here, too...<br/><br/>
+<a href="/news/4198/ea-sports-the-dreaded-focus-test">Read more</a> &raquo;
+<a href="/news/4198/ea-sports-the-dreaded-focus-test#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/4197/sony-celebrates-all-of-playstation-with-new-ad">Sony Celebrates All of PlayStation With New Ad</a></h3>
+<span class="author">By Jeff Buckland, 10/21/2013 6:37 AM</span><br/><br/>
+<p>Sony has released a new ad below that I really like.  What I really appreciate about their advertising and promotion over the last few years, or at least since they threw out the Department of the Weird (anyone remember their very bizarre ads for PS2 & PS3?), is that they celebrate gamers in a way that no one else does.  Sony's proud of their legacy, even with the issues they've had, and look back on the entire PlayStation era with fondness - and have many times spoke out in favor not just of PlayStation gamers, but as gamers in general.  This latest ad comes from the UK, and it takes us through a gamer's 18-year journey.  Pretty cool stuff.  <br />
+<br />
+<iframe width="629" height="472" src="//www.youtube.com/embed/wZkMdi3XBhw" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/4197/sony-celebrates-all-of-playstation-with-new-ad#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<div class="newsShot">
+<a href="/screenshots/game-1190/94615-800.jpg"><img width="160" src="/screenshots/game-1190/94615-160.jpg" border="0"/></a>
+</div>
+<h3><a href="/news/4196/psa-halo-3-free-for-xbl-gold-users">PSA: Halo 3 Free for XBL Gold Users</a></h3>
+<span class="author">By Jeff Buckland, 10/15/2013 9:50 PM</span><br/><br/>
+<p>Microsoft has made good on their promise to start giving away the odd game to Xbox Live Gold users.  The biggest one to date, for sure, is <b>Halo 3</b>, which is playable online and offline - and for my money, it's one of the most entertaining cooperative games on Xbox 360, period - and it's the <b>Halo</b> game I enjoyed the most.  If you got into the Xbox 360 ecosystem a bit late, it's definitely worth a try.<br/><br/>
+<a href="/news/4196/psa-halo-3-free-for-xbl-gold-users#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+</table>
+<div class="rowDivider"></div>
+<span class="important">Page:</span>
+<span class="important">1</span> <a href="/newsItems.php?id=2&page=2">2</a> <a href="/newsItems.php?id=2&page=3">3</a> <a href="/newsItems.php?id=2&page=2">></a> 		
+</div>
+
+
+<div class="clearing"></div>
+
+</div>
+
+<div id="footerWrapper">
+<div id="footer">
+<span class="button"><img src="/layouts/AtomicGamer_Grunge/images/button.gif" style=" width: 88px; height: 31px;" alt="AtomicGamer Button" title="AtomicGamer Button" border="0"   /></span>
+<span class="subscribe">Subscribe:<br/> <a href="http://twitter.com/atomicgamer">Twitter</a> | <a href="/rssFeeds.php">News and Articles</a> | <a href="/rssFeeds.php?type=Files">Files</a></span>
+&copy; 1997-2014 TeleFragged LLC, AtomicGamer. All trademarks used are properties of their respective owners. All rights reserved.
+<br/>
+<a href="/privacyPolicy.php">Privacy Policy</a> | 
+<a href="/contact.php">Contact</a>
+</div>	
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-563912-1']);
+  _gaq.push(['_setDomainName', '.atomicgamer.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+/*
+var aEls = window.document.getElementsByTagName('a');
+for (var i = 0, aEl; aEl = aEls[i]; i++) {
+                if(aEl.href.length>0){
+                                aEl.href = 'http://www.game-advertising-online.com/cobrand/814_redir.php?title=AtomicGamer&redir='+encodeURIComponent(aEl.href);
+                }
+}
+*/
+</script>
+</body>
+</html>

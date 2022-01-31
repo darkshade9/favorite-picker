@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="initial-scale=1.0">
-<title>Picker</title>
+<title>Elimination Quiz</title>
 <style>
 body {
     background:#FFF;
@@ -92,12 +92,30 @@ button.disabled:hover {
     margin-right:10px;
 }
 
+#pass {
+    background:rgb(255, 85, 85);
+    color:#FFF;
+    font-size:larger;
+    font-weight:bold;
+    width:6em;
+    border-radius:5px;
+    margin-right:10px;
+}
+
 #pick.disabled {
     background:#ACF;
 }
 
+#pass.disabled {
+    background:rgb(255, 170, 170);
+}
+
 #pick:hover {
     background:#ACF;
+}
+
+#pass:hover {
+    background:rgb(255, 170, 170);
 }
 
 .item-list {
@@ -206,9 +224,11 @@ button.disabled:hover {
 </style>
 </head>
 <body>
-<h1>Picker</h1>
-
-<p>You can include any content you want here.</p>
+<h1>Elimination Quiz</h1>
+<h3>Choose your favorite AQ2 Maps and click Pick</h3>
+<h3>If you don't like any maps on the list, click Pass</h3>
+<h3>Continue until we've found your favorite maps!</h3>
+<h3>Please be patient as there are over 300 maps in the list</h3>
 
 <div id="container">
 
@@ -229,16 +249,20 @@ button.disabled:hover {
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="picker.js"></script>
 <script src="picker-ui.js"></script>
+<script src="aq2maps.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.7.0/Sortable.min.js"></script>
 <script>
 'use strict';
 
-var items = [
-    // Define your items here
-];
+var items = Maplist;
 
 var myPicker = new picker.Picker({
-    items: items
+    items: items,
+    defaultSettings: {
+        minBatchSize: 5,
+        maxBatchSize: 8
+    },
+    //localStorageKey: 'picker-state'
 });
 
 var pickerUI = new PickerUI(myPicker, {
@@ -273,5 +297,8 @@ var sortable = new Sortable(pickerUI.elem.favorites.get(0), {
 });
 /* End sortable favorites */
 </script>
+<h3>Maplist from <a href="https://www.lahtela.com/action-quake-2-maps/" target="_"><img src="https://s3.amazonaws.com/www.aq2world.com/lahtela.png"></a></h3>  
+<h3>If any are missing, redundant, or need to be removed (non-AQ2 map?), contact darksaint on <a href="https://discord.gg/msqysSEaSM">Discord</a></h3>
+
 </body>
 </html>

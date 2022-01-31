@@ -701,6 +701,7 @@
         else if (localStorage && JSON && this.options.localStorageKey) {
             localStorage.setItem(this.options.localStorageKey, JSON.stringify(this.state.getState()));
         }
+        console.log(JSON.stringify(this.state.getState()));
     };
 
     Picker.prototype.loadState = function() {

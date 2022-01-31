@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>
+Free video game downloads, news, reviews, videos, patches, demos, screenshots and more at AtomicGamer</title>
+<meta name="description" content="Read up on the latest news and press releases at AtomicGamer." />
+<meta name="keywords" content="news, press release, video games, games, gaming, pc, xbox, ps2, ps3, xbox 360, wii sony, nintendo, microsoft" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="alternate" type="application/rss+xml" title="AtomicGamer Articles" href="/rssFeeds.php?type=Articles"/>
+<link rel="alternate" type="application/rss+xml" title="AtomicGamer Files" href="/rssFeeds.php?type=Files"/>
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/includes/root.css" title="sheet" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/nivo/nivo-slider.css" title="sheet" type="text/css" media="screen" />
+<link rel="StyleSheet" href="/layouts/AtomicGamer_Grunge/nivo/default.css" title="sheet" type="text/css" media="screen" />
+<link rel="icon" href="/favicon.ico"/>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script language="JavaScript" src="/layouts/AtomicGamer_Grunge/nivo/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/ads.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/features.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/popup.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/management.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/misc.js" type="text/javascript"></script>
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-2700833702457086");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Right_300x250");
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Right_336x280");
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_ATF_Top_728x90");
+GA_googleAddSlot("ca-pub-2700833702457086", "Atomicgamer_Atomicgamer_Frontpage_BTF_Right_160x600");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+</head>
+
+<body>
+<!--script language="Javascript" src="/hostPageScript.js"></script-->
+
+<div id="topWrapper">
+    <ul id="topNavigation">
+    	<li><a href="http://www.atomicgamer.com/">AtomicGamer</a></li>
+    	<li><a href="http://www.atomicgamer.com/network.php">Network</a></li>
+    	<li><a href="http://www.twitter.com/atomicgamer">Twitter</a></li>
+    	<li><a href="http://www.facebook.com/AtomicGamer">Facebook</a></li>
+    	<li><a href="http://www.youtube.com/user/AtomicGamerdotcom">YouTube</a></li>    
+    </ul>
+</div>
+<map name="logoMap">
+<area href="http://www.atomicgamer.com/" alt="AtomicGamer" shape="rect" coords="5,5, 700, 100" />
+</map>
+
+<div id="headerWrapper">
+<div id="header">    
+	<img src="/layouts/AtomicGamer_Grunge/images/logo.jpg" style=" width: 987px; height: 106px;" alt="AtomicGamer" title="AtomicGamer" border="0"  usemap="#logoMap" />	    
+	<div id="search">
+		<form method="get" action="/search.php">
+			<input type="hidden" name="searchProcess" value="1" />
+			<input type="text" id="searchText" name="search" value="Search" size="14" maxlength="50" style="width: 100px; margin-right: 3px; color: #BBBBBB;" 
+				onfocus="if (this.value == 'Search') { document.getElementById('searchTypeSelect').style.color='#000000'; this.value = ''; this.style.color = '#000000' }"
+				onblur="if (this.value == '') { document.getElementById('searchTypeSelect').style.color='#BBBBBB'; this.value = 'Search'; this.style.color = '#BBBBBB' }" /> 
+			<select id="searchTypeSelect" name="searchType" style="color: #BBBBBB;"
+				onfocus="this.style.color = '#000000';">
+			<option>Any Type</option>
+			<option>Games</option>
+<option>Modifications</option>
+<option>Companies</option>
+<option>Articles</option>
+<option>Files</option>
+			</select>		
+			<input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Search" />
+		</form>
+	</div>
+</div>
+<!--div style="text-align: center; background-color: #000000; font-weight: bold; padding: 2px;">AtomicGamer will be down starting at 9 PM Central for upgrades. We expect to be down for about two hours.</div-->
+</div>
+
+<div id="navWrapper">
+    <ul id="nav">
+    	<li><a href="/">News</a></li>
+        <li><a href="/reviews">Reviews</a></li>
+        <li><a href="/previews">Previews</a></li>
+        <li>
+            <a href="#">Articles</a>
+            <ul>
+                <li><a href="/articles">Editorials</a></li>
+                <li><a href="/interviews">Interviews</a></li>
+                <li><a href="/freegames">Free Games</a></li>
+		<li><a href="/newsItems.php?id=1">Press Releases</a></li>
+            </ul>
+        </li>        
+        <li><a href="/galleries">Screenshots</a></li>
+        <li>
+            <a href="#">Games</a>
+            <ul>
+            <li><a href="/games.php?filter=A+to+Z-%23">#</a></li>
+<li><a href="/games.php?filter=A+to+Z-A">A</a></li>
+<li><a href="/games.php?filter=A+to+Z-B">B</a></li>
+<li><a href="/games.php?filter=A+to+Z-C">C</a></li>
+<li><a href="/games.php?filter=A+to+Z-D">D</a></li>
+<li><a href="/games.php?filter=A+to+Z-E">E</a></li>
+<li><a href="/games.php?filter=A+to+Z-F">F</a></li>
+<li><a href="/games.php?filter=A+to+Z-G">G</a></li>
+<li><a href="/games.php?filter=A+to+Z-H">H</a></li>
+<li><a href="/games.php?filter=A+to+Z-I">I</a></li>
+<li><a href="/games.php?filter=A+to+Z-J">J</a></li>
+<li><a href="/games.php?filter=A+to+Z-K">K</a></li>
+<li><a href="/games.php?filter=A+to+Z-L">L</a></li>
+<li><a href="/games.php?filter=A+to+Z-M">M</a></li>
+<li><a href="/games.php?filter=A+to+Z-N">N</a></li>
+<li><a href="/games.php?filter=A+to+Z-O">O</a></li>
+<li><a href="/games.php?filter=A+to+Z-P">P</a></li>
+<li><a href="/games.php?filter=A+to+Z-Q">Q</a></li>
+<li><a href="/games.php?filter=A+to+Z-R">R</a></li>
+<li><a href="/games.php?filter=A+to+Z-S">S</a></li>
+<li><a href="/games.php?filter=A+to+Z-T">T</a></li>
+<li><a href="/games.php?filter=A+to+Z-U">U</a></li>
+<li><a href="/games.php?filter=A+to+Z-V">V</a></li>
+<li><a href="/games.php?filter=A+to+Z-W">W</a></li>
+<li><a href="/games.php?filter=A+to+Z-X">X</a></li>
+<li><a href="/games.php?filter=A+to+Z-Y">Y</a></li>
+<li><a href="/games.php?filter=A+to+Z-Z">Z</a></li>
+            </ul>
+        </li>        
+        <li>
+            <a href="#">Files</a>
+            <ul>
+            <li><a href="/full-versions">Full Versions</a></li>
+<li><a href="/demos">Demos</a></li>
+<li><a href="/patches">Patches</a></li>
+<li><a href="/official-add-ons">Official Add-ons</a></li>
+<li><a href="/movies">Movies</a></li>
+<li><a href="/modifications">Modifications</a></li>
+                <li><a href="/uploads.php">Uploads</a></li>
+            </ul>
+        </li>                
+        <li>
+            <a href="#">About</a>
+            <ul>
+                <li><a href="/contact.php">Contact Us</a></li>
+                <li><a href="irc://irc.atomicgamer.com/#atomicgamer">Semi-live Chat</a></li>
+                <li><a href="/hosting.php">Hosting</a></li>
+				<li><a href="/staff.php">Staff</a></li>				                
+            </ul>
+        </li>        
+    </ul>
+</div>
+
+<div id="wrapper">
+
+<div id="bannerTop"><script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_ATF_Top_728x90");</script></div>
+<div id="features-wrapper" class="slider-wrapper theme-default">
+    <div class="ribbon"></div>
+    <div id="features" class="nivoSlider">
+    <a href="http://www.atomicgamer.com/articles/1348/star-wars-the-old-republic-review"><img alt="" title="Star Wars: The Old Republic Review" src="/screenshots/game-4564/119869-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1347/in-defense-of-borderlands-millions-of-guns"><img alt="" title="In Defense of Borderlands' Millions of Guns" src="/screenshots/game-7183/131014-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1346/flatout-3-chaos-destruction-review"><img alt="" title="Flatout 3 Review: I'd Rather be Hit in the Face" src="/screenshots/game-7651/148038-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1345/atomicgamer-2011-game-of-the-year-awards"><img alt="" title="Game of the Year 2011 Awards" src="/screenshots/game-5770/122445-620-250.jpg" border="0" /></a></a><a href="http://www.atomicgamer.com/articles/1344/microsoft-wireless-speed-wheel-review"><img alt="" title="Microsoft Wireless Speed Wheel Review" src="/screenshots/game-2725/28083-620-250.jpg" border="0" /></a></a>    </div>
+</div>
+
+
+<div id="rightColumn">
+    
+    <div id="bannerFeatures"><script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_ATF_Right_300x250");</script></div>    
+	<div id="login">
+	<h3 class="seoHeader">Log In</h3>			<form method="post" action="http://www.atomicgamer.com/">
+			<input type="hidden" name="login" value="1" />
+			<table width="326" border="0" cellpadding="0" cellspacing="0" style="width: 326px; margin: 0px 5px 5px;">
+				<tr>
+					<td width="80"><strong>Username:</strong></td>
+					<td width="220"><input type="text" name="username" size="16" style="width: 236px;" /></td>
+				</tr>
+				<tr>
+					<td><strong>Password:</strong></td>
+					<td><input type="password" name="password" size="16" style="width: 236px;" /></td>
+				</tr>
+			</table>
+			<table width="326" border="0" cellpadding="0" cellspacing="0" style="width: 326px; margin: 0px 5px;">
+				<tr>
+				  <td width="30"><input type="checkbox" name="remember" value="1" /></td>
+					<td>Remember Login?</td>
+					<td width="22"><input type="image" src="/layouts/AtomicGamer_Grunge/images/go.png" value="Go Login" />
+</td>
+				</tr>
+			</table>
+			</form>
+
+			<ul>
+			<li><a href="/register.php">Register</a> | <a href="/lostUsername.php">Lost Username</a> | <a href="/lostPassword.php">Lost Password</a></li>
+			</ul>
+		
+			
+	</div>
+		    
+	<div>   
+        <h3 class="seoHeader">Hottest Files</h3>    
+		<ul class="fileList">
+		<li><a  href="/files/95251/alliance-of-valiant-arms-a-v-a-full-client-free-to-play">Alliance of Valiant Arms (A.V.A) - Full Client [Free-to-Play]</a></li>
+<li><a  href="/files/95224/wolfteam-client-v5-53-international">WolfTeam Client v5.53 (International)</a></li>
+<li><a  href="/files/95225/wolfteam-client-v4-73-latino">WolfTeam Client v4.73 (Latino)</a></li>
+<li><a  href="/files/94939/cross-fire-full-client-v1082-holiday-update">Cross Fire - Full Client v1082 (Holiday Update)</a></li>
+<li><a  href="/files/72330/gunz-the-duel-na-client">Gunz: The Duel - NA Client</a></li>
+<li><a  href="/files/68633/europa-barbarorum-v1-1-eb1-1">Europa Barbarorum v1.1 (EB1.1)</a></li>
+<li><a  href="/files/95145/runes-of-magic-client-v4-0-5-2467-full-usa">Runes of Magic Client v4.0.5.2467 Full (USA)</a></li>
+<li><a  href="/files/94955/allods-online-full-client-v2-0-06-65-1-free-to-play">Allods Online - Full Client v2.0.06.65.1 [Free-to-Play]</a></li>
+		</ul>
+	</div>
+	    
+	<div>        
+        <h3 class="seoHeader">Newest Files</h3>
+		<ul class="fileList">
+		<li><a  href="/files/95316/batman-arkham-asylum-goty-edition-v1-0-10-cheat-trainer">Batman: Arkham Asylum GOTY Edition v1.0 +10 Cheat Trainer</a></li>
+<li><a  href="/files/95317/terraria-v1-1-1-11-cheat-trainer">Terraria v1.1.1 +11 Cheat Trainer</a></li>
+<li><a  href="/files/95318/unepic-v1-0-21-3-cheat-trainer">Unepic v1.0.21 +3 Cheat Trainer</a></li>
+<li><a  href="/files/95314/star-wars-jedi-knight-jedi-academy-the-black-sun-missions-for-kotf2">Star Wars Jedi Knight: Jedi Academy - The Black Sun Missions for KotF2</a></li>
+<li><a  href="/files/95311/x-plane-10-demo-installer-linux">X-Plane 10 - Demo Installer (Linux)</a></li>
+<li><a  href="/files/95312/x-plane-10-demo-installer-mac">X-Plane 10 - Demo Installer (Mac)</a></li>
+<li><a  href="/files/95313/x-plane-10-demo-installer-windows">X-Plane 10 - Demo Installer (Windows)</a></li>
+<li><a  href="/files/95310/minecraft-server-java">Minecraft Server (Java)</a></li>
+		</ul>
+	</div>	
+        
+	<div>        
+        <h3 class="seoHeader">Latest Comments</h3>
+		<ul class="fileList">
+		<li><a  href="/articles/1321/dark-souls-review#742">Re: Dark Souls Review</a></li>
+<li><a  href="/articles/1348/star-wars-the-old-republic-review#741">Re: Star Wars: The Old Republic Review</a></li>
+<li><a  href="/news/3642/take-take-on-helicopters-out-for-a-spin#740">Re: Take "Take on Helicopters" out for a Spin</a></li>
+<li><a  href="/news/3645/new-ag-video-posts-this-week#739">Re: New AG Video Posts This Week</a></li>
+<li><a  href="/news/3623/the-funniest-skyrim-video-yet#738">Re: The Funniest Skyrim Video Yet</a></li>
+<li><a  href="/news/3614/skyrim-not-quite-call-of-duty-but-not-that-far#737">Re: Skyrim: Not quite Call of Duty, but not that far</a></li>
+		</ul>
+	</div>	    
+	    
+	<div>        
+        <h3 class="seoHeader">Hosted Files</h3>
+		<ul class="fileList">
+                        <li><a href="http://www.beyondunreal.com/">BeyondUnreal</a> -  <a href="/directory.php?id=1259">Files</a></li>
+                        <li><A href="http://www.civfanatics.com/">CivFanatics</a> - <a href="/directory.php?id=2599">Files</a></li>
+                        <li><A href="http://www.doomworld.com/">DoomWorld</a> - <a href="/directory.php?id=1533">Files</a></li>
+                        <li><a href="http://www.liberatedgames.com">Liberated Games</a> - <a href="/directory.php?id=1940">Files</a></li>
+                        <li><a href="http://www.linuxgames.com">LinuxGames</a> - <a href="/directory.php?id=1941">Files</a></li>
+                        <li><a href="http://www.nma-fallout.com">No Mutants Allowed</a> - <a href="/directory.php?id=2075">Files</a></li>
+                        <li><A href="http://www.Totalwar.org">Totalwar.org </a> - <a href="/directory.php?id=2704">Files</a></li>
+                        <li><A href="http://www.zeldadungeon.net/">Zelda Dungeon </a> -<a href="/directory.php?id=3705">Files</a></li>
+
+		</ul>
+	</div>	
+    
+    <div id="bannerSideRight"><script type='text/javascript'>GA_googleFillSlot("Atomicgamer_Atomicgamer_Frontpage_BTF_Right_160x600");</script></div></div>
+
+<div id="article">
+    <h1 class="seoHeader headerImage">Latest News</h1>
+
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.1.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.1.css" media="screen"/>
+
+<script language="JavaScript">
+$(document).ready(function() 
+{
+    $("a.box").fancybox({
+        'titleShow'		: false,
+        'transitionIn'	: 'elastic',
+        'transitionOut'	: 'elastic'
+    });    
+});
+--></script>
+
+<h3><a href="/news/3705/mojang-staying-busy">Mojang Staying Busy</a></h3>
+<span class="author">By Jeff Buckland, 1/16/2012 9:45 AM</span><br/><br/>
+<p><a href="http://www.edge-online.com/news/mojang-working-three-new-games">This feature by Edge Online</a> has word that Mojang AB, the company behind <b>Minecraft</b> and the upcoming <b>Scrolls</b>, also has three unannounced games in the works, one of which is by Notch, the original <b>Minecraft</b> creator.  The best part?  It's possible that two of them will be available to the public by the midpoint of this year.  Notch's own game is still in such rudimentary stages that he doesn't really know what it is yet, and I imagine that any public releases will be in a pre-alpha or alpha state like <b>Minecraft</b> was a couple of years ago, but either way, it's good news for fans of Mojang.  <br/><br/>
+<a href="/news/3705/mojang-staying-busy#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3703/notch-says-pirate-minecraft-if-you-cant-afford-it">Notch Says: Pirate Minecraft if you can't afford it</a></h3>
+<span class="author">By Jeff Buckland, 1/12/2012 7:57 AM</span><br/><br/>
+<p>An interesting exchange happened on Twitter in the last day or so.  When a user tweeted Notch to ask for a free account since he couldn't afford <b>Minecraft</b> (and suggested he'd pirate it if nothing else), here's now Notch replied: <blockquote>Just pirate it. If you still like it when you can afford it in the future, buy it then.  Also don't forget to feel bad. ;)</blockquote>It's different when Trent Reznor of Nine Inch Nails tells an Australian audience to pirate his last major record label CD, as Trent knew that Aussie customers were getting ripped off with high prices, and almost none of that money was going to him or his band.  But here, this is a direct sale, and while it seems silly for a developer to tell a fan to pirate his game, what other choices are there?  All I can think of is copy protection or DRM, which no one (including Notch) actually wants to see implemented...<br/><br/>
+<a href="/news/3703/notch-says-pirate-minecraft-if-you-cant-afford-it#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3702/a-petition-to-valve-for-half-life-info">A Petition to Valve for Half-Life Info</a></h3>
+<span class="author">By Jeff Buckland, 1/12/2012 7:49 AM</span><br/><br/>
+<p><a href="http://steamcommunity.com/groups/messagetovalve">This Steam Group</a> with over 6,600 signatures (as of this writing) is trying to get Valve to start talking about whatever <b>Half-Life</b> project they may or may not be working on currently.  Is it just me, or does anyone else find it nice that a developer is <b>not</b> announcing a game years ahead of its release to slowly trickle out teasers, screenshots, and magazine covers?  My secret wish is for Valve to just not announce <b>Half-Life 3</b> at all; just release it on Steam one day.  No hype, no lead-up, no spoilers and no press showings - Just millions of buyers scrambling to click "Add to Cart" when they find out the game was completed right under their noses without their knowledge.  If there's one franchise that could pull this off, it's this one. <br/><br/>
+<a href="/news/3702/a-petition-to-valve-for-half-life-info#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3701/stalker-2-development-continues">STALKER 2 Development Continues!</a></h3>
+<span class="author">By Jeff Buckland, 1/12/2012 7:43 AM</span><br/><br/>
+<p>After some harrowing news about the future of <b>S.T.A.L.K.E.R. 2</b> developer GSC Game World over the last month, the devs have posted a message to their <a href="https://www.facebook.com/officialstalker/posts/354976321194956">Facebook page</a> that they're continuing to work on the game.  There's no word on whether it's with fewer people or not, but considering what happened over the last month, that certainly seems possible. <br/><br/>
+<a href="/news/3701/stalker-2-development-continues#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<div class="newsShot">
+<a href="/screenshots/game-6905/124597-800.jpg"><img width="160" src="/screenshots/game-6905/124597-160.jpg" border="0"/></a>
+</div>
+<h3><a href="/news/3695/space-pirates-zombies-deal">Space Pirates & Zombies Deal!</a></h3>
+<span class="author">By Jeff Buckland, 1/5/2012 7:09 PM</span><br/><br/>
+<p>MinMax Games' indie space action/strategy/RPG/epic game <b>Space Pirates & Zombies</b> is on sale today on <a href="http://impulsedriven.com/spacepiratesandzom?AFFID=Twit&cid=soc_iTW165">Impulse</a> for a very deep discount of $2.49.  Check out <a href="http://www.atomicgamer.com/articles/1298/space-pirates-and-zombies-review">our review</a> to read my words of praise about this wonderful little game.  If you liked classic space games like <b>Master of Orion</b> or <b>Star Control 2</b>, then this one's worth the half-a-coffee tag for sure!<br/><br/>
+<a href="/news/3695/space-pirates-zombies-deal#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3692/new-xcom-strategy-game-announced">New XCOM Strategy Game Announced</a></h3>
+<span class="author">By Jeff Buckland, 1/5/2012 10:48 AM</span><br/><br/>
+<p><a href="http://www.gameinformer.com/b/news/archive/2012/01/05/february-cover-revealed-xcom-enemy-unknown.aspx">GameInformer</a> has the scoop (and the upcoming cover on their February issue) on 2K Games' <b>XCOM: Enemy Unknown</b>.  It's going to be a re-imagining of the classic 1994 PC game, but this is not the first person shooter being developed at 2K Marin.  No, this is another game, and it will be actual turn-based strategy like the original.  Best part?  It's being made by Firaxis Games, the developers behind a little franchise you might have heard of - it's called <b>Civilization</b>.  <br/><br/>
+<a href="/news/3692/new-xcom-strategy-game-announced#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3691/microsoft-flight-free-this-spring">Microsoft Flight: Free this Spring</a></h3>
+<span class="author">By Jeff Buckland, 1/5/2012 8:06 AM</span><br/><br/>
+<p>Microsoft has announced that their upcoming flight simulator, titled simply <b>Flight</b>, will be a free-to-play title released this spring. Some have wondered why Microsoft is going this route for a hardcore game like a serious flight simulator, but after seeing just how much post-release content was bought for <b>Flight Simulator X</b> in the five years since its release, it becomes clear that the money is in the added planes and geography.  <br/><br/>
+<a href="/news/3691/microsoft-flight-free-this-spring#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3690/evo-returns-in-july">EVO Returns in July</a></h3>
+<span class="author">By Jeff Buckland, 1/4/2012 5:08 PM</span><br/><br/>
+<p>The <a href="http://evo2k.com/">EVO fighting game tournament</a> that's been running for over a decade will be back this July, and they've announced which games will be run in the tourney.  The lineup goes like this: <b>Street Fighter IV 2012 Edition</b>, <b>Ultimate Marvel vs. Capcom 3</b>, <b>Soulcalibur V</b>, <b>Mortal Kombat</b>, <b>Street Fighter X Tekken</b>, and <b>King of Fighters XIII</b>.  Even if you're not interested in playing these games, watching the streams on <a href="http://www.twitch.tv">Twitch.TV</a> (both the weekend of the tournament and the many local events every week that lead up to it) is usually quite entertaining, or at least they are once you learn the <a href="http://iplaywinner.com/glossary">lingo</a> (note: not a complete list).  And who knows - maybe we could get another one of these moments?<br />
+<br />
+<iframe width="629" height="456" src="http://www.youtube.com/embed/v7cW2nMf1gk" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/3690/evo-returns-in-july#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3689/best-mmo-exploit-ever">Best MMO Exploit Ever.</a></h3>
+<span class="author">By Jeff Buckland, 1/3/2012 10:40 PM</span><br/><br/>
+<p>In the history of the world.  Ladies and gentlemen, I present to you <b>Star Wars: The Old Republic</b>'s /getdown.  (Seen on <a href="http://www.reddit.com/r/swtor/comments/o1luk/huge_exploit_typing_getdown_will_interrupt_an/">Reddit</a>!)<br />
+<br />
+<iframe width="629" height="350" src="http://www.youtube.com/embed/vun5geNHA5M" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/3689/best-mmo-exploit-ever#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3688/tire-simulation-in-slow-motion">Tire Simulation in Slow Motion</a></h3>
+<span class="author">By Jeff Buckland, 1/3/2012 5:24 PM</span><br/><br/>
+<p>You love racing games, right?  Me too.  <b>Forza</b>, <b>Gran Turismo</b>, <b>Wipeout</b>...  but over in a very serious and dedicated community of real racers, tuners, and developers, a few teams are making some very interesting stuff.  Here's a video of the PC-exclusive <b>rFactor 2</b> and its very detailed tire simulation physics.  Sure, the game's a bit low on polygons and it won't ship with a massive stable of licensed cars (that's for the community to unofficially mod in!), but just look at this.  Look at this!<br />
+<br />
+<iframe width="629" height="350" src="http://www.youtube.com/embed/PG0lscEUqBk" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/3688/tire-simulation-in-slow-motion#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3687/brush-your-cat-with-kinect">Brush Your Cat with Kinect</a></h3>
+<span class="author">By Jeff Buckland, 1/3/2012 5:19 PM</span><br/><br/>
+<p>Microsoft has <a href="http://kinectforwindows.org/">opened up</a> Kinect technology for independent development, and some of the things people are doing with it are pretty amazing - especially considering this is cheap consumer hardware.  This guy uses Kinect and a Wii Remote to control a foot-tall plastic robot in another room, all so he can brush his cat remotely.  <br />
+<br />
+<iframe width="629" height="350" src="http://www.youtube.com/embed/pxoL4bnLp0g" frameborder="0" allowfullscreen></iframe><br/><br/>
+<a href="/news/3687/brush-your-cat-with-kinect#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<div class="newsShot">
+<a href="/screenshots/game-6071/134545-800.jpg"><img width="160" src="/screenshots/game-6071/134545-160.jpg" border="0"/></a>
+</div>
+<h3><a href="/news/3686/speaking-of-sales">Speaking of sales...</a></h3>
+<span class="author">By Jeff Buckland, 1/3/2012 10:21 AM</span><br/><br/>
+<p>Nintendo might have put out four million 3DS units, but some indie developers made some big milestones, too.  <b>Bastion</b> has passed the half-million mark, while <b>Super Meat Boy</b> made it to a million.  Of course, many of these sales came at a discount, as both games have been on sale, but this counts the console editions as well where the discounts aren't quite as large.  Congrats to both Supergiant games and Team Meat!<br/><br/>
+<a href="/news/3686/speaking-of-sales#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3685/is-3ds-now-successful">Is 3DS Now 'Successful'?</a></h3>
+<span class="author">By Jeff Buckland, 1/3/2012 10:18 AM</span><br/><br/>
+<p>With the holidays now complete, Nintendo has announced that 4 million 3DS portables have been sold in the US.  That's a pretty big change from the sales of a few hundred thousand shortly after the console was released for its original $250 price tag.  With the price drop and the delivery of a couple of big games this holiday, it seems like Nintendo is at least out of hot water.  We'll check in on this topic again when they explain more about the Wii U.<br/><br/>
+<a href="/news/3685/is-3ds-now-successful#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3684/steam-sale-last-day">Steam Sale: Last Day!</a></h3>
+<span class="author">By Jeff Buckland, 1/2/2012 4:56 AM</span><br/><br/>
+<p>The last day of Steam's holiday say is today, and they're putting what I believe to be everything that was on sale over the last two weeks up for this one last day.  If you missed a sale, now's the time to check, and if you want to create an epic-sized backlog full of amazing games to play over the first half of 2012 - with huge discounts to boot - now's the time.  <a href="http://store.steampowered.com/?=EVERYTHINGonSALE">YOU GO NOW.</a><br/><br/>
+<a href="/news/3684/steam-sale-last-day#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<div class="newsShot">
+<a href="/screenshots/game-5033/101925-800.jpg"><img width="160" src="/screenshots/game-5033/101925-160.jpg" border="0"/></a>
+</div>
+<h3><a href="/news/3683/fallout-new-vegas-director-makes-a-mod">Fallout: New Vegas Director Makes a Mod</a></h3>
+<span class="author">By Jeff Buckland, 12/29/2011 6:55 PM</span><br/><br/>
+<p>J.E. Sawyer, the project director behind Obsidian's <b>Fallout: New Vegas</b>, has just released a self-made mod for his own game over on <a href="http://www.nma-fallout.com/article.php?id=60505">No Mutants Allowed</a> (site hosted here on AtomicGamer) along with a quick Q&A as to the point behind releasing this at this time and in this capacity.  Read on for more details...<br/><br/>
+<a href="/news/3683/fallout-new-vegas-director-makes-a-mod">Read more</a> &raquo;
+<a href="/news/3683/fallout-new-vegas-director-makes-a-mod#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3682/the-internet-works-fig-1-ocean-marketing">The Internet Works. Fig. 1: Ocean Marketing</a></h3>
+<span class="author">By Jeff Buckland, 12/27/2011 9:07 PM</span><br/><br/>
+<p>It started with a delayed pre-order of the "Avenger" controller for the PS3.  A young man named Dave inquired as to the delay of his pre-order, and it led to an email exchange with a representative named Paul Christoforo that really puts the controller manufacturer's (now ex-)partner, Ocean Marketing, in a terrible light.  What I find amusing is this Paul's insistence that the guy's efforts to tell the internet about this company's unprofessionalism would be in vain.  Now, <a href="http://penny-arcade.com/">Penny Arcade</a> has the story, it's all over <a href="http://www.reddit.com/r/gaming">Reddit</a>, and yes, there are stories at all of the sites that Paul assumed wouldn't care about this issue.  Ocean Marketing has been fired from their gig, so yes, here's proof that the internet really works!  <br />
+<br />
+<b>Update</b>: It should be pointed out that Paul's personal information has been published and it's getting maybe a little out of hand, and he has since apologized to Dave and to Mike at Penny Arcade, so we at AtomicGamer do not condone any further action.  Enough has probably been done - e-justice has been served - but anyone that's "from" the internet knows that it's too late to undo any of this.  Paul's window for issuing an official apology closed when the email exchange was posted on PA.  <br/><br/>
+<a href="/news/3682/the-internet-works-fig-1-ocean-marketing#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3681/top-team-at-joystiq-leaves">Top Team at Joystiq Leaves</a></h3>
+<span class="author">By Jeff Buckland, 12/27/2011 9:02 PM</span><br/><br/>
+<p>Three of the top people at AOL-owned gaming blog Joystiq left their posts today.  AOL has been slowly bleeding out their top talent, who have nearly all left to create new startups.  This time, brothers Justin and Griffin McElroy as well as editor Chris Grant have left to create a gaming site under Vox Media (owners of sports site SB Nation).  If you're interested in seeing names of all of the people that have left the AOL family of tech/geek sites during 2011, <a href="http://venturebeat.com/2011/12/27/aol-joystiq-editor-quits/">VentureBeat</a> has a good list.  <br/><br/>
+<a href="/news/3681/top-team-at-joystiq-leaves#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3679/merry-christmas-from-atomicgamer">Merry Christmas from AtomicGamer!</a></h3>
+<span class="author">By Jeff Buckland, 12/24/2011 10:56 AM</span><br/><br/>
+<p>All of us here at AG are hoping you stay safe, jolly, and gifted over Christmas, New Year's, and/or whatever holidays you may or may not be celebrating.  As for us, we'll be spending our time playing <b>Star Wars Galaxies</b>, hoping the gift cards we get are for stores we actually visit, and training for triathlons or something.  What are you playing over the holidays?  <br/><br/>
+<a href="/news/3679/merry-christmas-from-atomicgamer#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3678/battlefield-3-gets-new-commorose-in-february">Battlefield 3 Gets New Commorose in February</a></h3>
+<span class="author">By Jeff Buckland, 12/23/2011 3:54 AM</span><br/><br/>
+<p>According to <a href="https://twitter.com/#!/TomasDanko/status/149490447692214272">this tweet</a> by DICE's Tomas Danko, <b>Battlefield 3</b> will get a new Commorose (the communication tool that pops up when holding Q) some time in February.  Slowly but surely, DICE is getting the game whipped into shape.<br/><br/>
+<a href="/news/3678/battlefield-3-gets-new-commorose-in-february#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+<h3><a href="/news/3670/star-wars-the-old-republic-launches-without-issue">Star Wars: The Old Republic Launches Without Issue</a></h3>
+<span class="author">By Jeff Buckland, 12/20/2011 2:52 PM</span><br/><br/>
+<p>After a week of early access play, <b>Star Wars: The Old Republic</b> servers went down last night for scheduled maintenance and then came up right on time for the official launch of the game.  Those who are used to <b>World of Warcraft</b> downtimes usually taking longer than expected might have been surprised, and I'm sure that EA/BioWare will have some kind of issue in the future, but it's nice to see a big-name MMORPG like this launch just fine.  Some players are still waiting in queues on the higher-population servers, but nothing has been too terrible just yet that I've heard of.  The game's light on customization features and graphics tweaks, but that's about the only serious complaint I can level against it so far.  <br/><br/>
+<a href="/news/3670/star-wars-the-old-republic-launches-without-issue#comments">View Comments [0]</a>
+</p><div style="clear: right;"></div>
+<div class="rowDivider"></div>
+</table>
+<div class="rowDivider"></div>
+<span class="important">Page:</span>
+<span class="important">1</span> <a href="/newsItems.php?id=2&page=2">2</a> <a href="/newsItems.php?id=2&page=3">3</a> <a href="/newsItems.php?id=2&page=2">></a> 		
+</div>
+
+
+<div class="clearing"></div>
+
+</div>
+
+<div id="footerWrapper">
+<div id="footer">
+<span class="button"><img src="/layouts/AtomicGamer_Grunge/images/button.gif" style=" width: 88px; height: 31px;" alt="AtomicGamer Button" title="AtomicGamer Button" border="0"   /></span>
+<span class="subscribe">Subscribe:<br/> <a href="http://twitter.com/atomicgamer">Twitter</a> | <a href="/rssFeeds.php?type=Articles">Articles</a> | <a href="/rssFeeds.php?type=Files">Files</a></span>
+&copy; 1997-2012 TeleFragged LLC, AtomicGamer. All trademarks used are properties of their respective owners. All rights reserved.
+<br/>
+<a href="/privacyPolicy.php">Privacy Policy</a> | 
+<a href="/contact.php">Contact</a>
+</div>	
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-563912-1']);
+  _gaq.push(['_setDomainName', '.atomicgamer.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">loadDrag(); startFeatures();</script>
+</body>
+</html>

@@ -287,6 +287,8 @@
         }
         this.elem.evaluating.empty().width('100%').append(item);
         this.updatePickPass(false);
+
+        
     };
 
     PickerUI.prototype.displayBatch = function() {
